@@ -1,0 +1,38 @@
+ctrl +   +/-  =>   zoom
+f11           =>  full screen
+ctrl + b      =>  open/close sidebar
+ctrl + s      =>  save
+ctrl + c      =>  copy
+ctrl + v      =>  paste
+ctrl + x      =>  cut
+ctrl + a      =>  select all
+ctrl + z      =>  back
+ctrl + shift + z    =>  back what is back
+ctrl + y      =>   ctrl + shift + z
+ctrl + f      =>   search  =>  (f3)
+ctrl + shift + l   =>  select all the same
+ctrl + d      =>  select the same (only next one)
+------------------
+alt  + tab    =>  change between windows
+alt  + shift + f   => format text
+alt  + z      =>  wrap text inside screen
+------------------
+
+----------------------------------------------------------
+paragraph   =>  <p>...</p>  =>  is used for text
+heading     => is used for title 
+                <h1>...</h1>  =>  the biggest
+                <h2>...</h2>
+                <h3>...</h3>
+                ...
+                <h6>...</h6>  =>  the smallest
+button      =>  <button>...</button>  =>  is used for creating a button
+break       =>  <br>   =>  break the line
+horizontal row  =>  <hr>  =>  is used for creating a horizontal row
+
+<link rel="icon" href="1.jpg" type="image/x-icon">
+----------------------------------------------------------
+
+lorem       =>  is used to create a meaningless text
+loremru     =>  is used to create a meaningless russian text
+loremru + number  =>  create number of text
